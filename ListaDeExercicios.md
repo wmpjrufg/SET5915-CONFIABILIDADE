@@ -11,7 +11,7 @@ Vazão de saída: $$6 ft$$, $$7 ft$$ e $$8 ft$$
 As possíveis combinações são dadas por um arranjo entre todas as variáveis:    
 
 > Para $$6 ft$$    
-+ $$[6 entra, 5 sai]$$    
++ $[6 entra, 5 sai]$    
 + $$[6 entra, 6 sai]$$    
 + $$[6 entra, 7 sai]$$    
 > Para $$7 ft$$
