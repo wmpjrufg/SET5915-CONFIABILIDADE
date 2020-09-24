@@ -21,4 +21,4 @@ As possíveis combinações são dadas por um arranjo entre todas as variáveis:
 +$$[8 entra, 6 sai]$$  
 +$$[8 entra, 7 sai]$$   
 
-Total de possibilidade $$Quantidade_{entrada}.$$Quantidade_{saida} = 3.3 = 9$$  
+Total de possibilidade $$Quantidade_{entrada}.Quantidade_{saida} = 3.3 = 9$$  
