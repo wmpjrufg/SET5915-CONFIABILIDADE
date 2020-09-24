@@ -3,5 +3,5 @@
 - Orientadores das disciplinas: [Prof. André Teófilo Beck](http://lattes.cnpq.br/4319075758352865);
 - Alunos da disciplina: [Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114).
 
-#### [Lista de Exercícios]()
+#### [Lista de Exercícios](https://wmpjrufg.github.io/SET5915-CONFIABILIDADE/ListaDeExercicios.html)
 #### [Trabalho aplicado]()
