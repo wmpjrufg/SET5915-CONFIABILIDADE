@@ -23,4 +23,4 @@ B) Quais os possíveis valores de nível de água partido da premissa que no in�
 | 7                        |  6                    | 5          | 8                      | 1/9             |  
 | 7                        |  6                    | 6          | 7                      | 1/9             |  
 | 7                        |  6                    | 7          | 6                      | 1/9             |  
-
+d
