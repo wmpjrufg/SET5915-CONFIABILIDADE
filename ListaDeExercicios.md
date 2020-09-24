@@ -3,6 +3,8 @@
 
 ### Questão 2.8  
 
+A) Quais as possíveis combinações para esse tanque de água:  
+
 Vazão de entrada: $$6 ft$$, $$7 ft$$ e $$8 ft$$  
 Vazão de saída: $$6 ft$$, $$7 ft$$ e $$8 ft$$  
 
@@ -22,3 +24,11 @@ As possíveis combinações são dadas por um arranjo entre todas as variáveis:
 + $$[8 entra, 7 sai]$$   
 
 Total de possibilidade $$Quantidade_{entrada}.Quantidade_{saida} = 3.3 = 9$$  
+
+B) Quais os possíveis valores de nível de água partido da premissa que no início do dia são registrados $$7 ft$$ de nível d'água. Para isso dever ser consirada a seguinte proposição: $$ NFD = NID + E -S$$.
+
+| Nível início dia (NID)   |      Entrada (E)      |  Saída (S) |  Nível final dia (NFD) |  Probabilidade  |
+|:------------------------:|:---------------------:|:----------:|:----------------------:|:---------------:|
+| 7                        |  6                    | 5          | 8                      | 1/9             |
+| 7                        |  6                    | 6          | 7                      | 1/9             |
+| 7                        |  6                    | 7          | 6                      | 1/9             |
