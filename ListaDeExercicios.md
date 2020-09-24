@@ -10,9 +10,9 @@ Vazão de saída: $$6 ft$$, $$7 ft$$ e $$8 ft$$
 
 As possíveis combinações são dadas por um arranjo entre todas as variáveis:    
 
-**Para nível $$6 ft$$**: $$[6, 5]$$, $$[6, 6]$$ e $$[6, 7]$$;    
-**Para nível $$7 ft$$**: $$[7, 5]$$, $$[7, 6]$$ e $$[7, 7]$$;     
-**Para nível $$8 ft$$**: $$[8, 5]$$, $$[8, 6]$$ e $$[8, 7]$$.      
+**Para nível $$6 ft$$**: $$[6, 5]$$, $$[6, 6]$$ e $$[6, 7]$$ 3 possibilidades;      
+**Para nível $$7 ft$$**: $$[7, 5]$$, $$[7, 6]$$ e $$[7, 7]$$ 3 possibilidades;       
+**Para nível $$8 ft$$**: $$[8, 5]$$, $$[8, 6]$$ e $$[8, 7]$$ 3 possibilidades.        
 
 Total de possibilidade $$Quantidade_{entrada}.Quantidade_{saída} = 3.3 = 9$$    
 
