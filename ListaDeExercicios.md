@@ -18,8 +18,9 @@ Total de possibilidade $$Quantidade_{entrada}.Quantidade_{saída} = 3.3 = 9$$
 
 B) Quais os possíveis valores de nível de água partido da premissa que no início do dia são registrados $$7 ft$$ de nível d'água. Para isso dever ser consirada a seguinte proposição: $$ NFD = NID + E -S$$.
 
-| Nível início dia (NID)   |      Entrada (E)      |  Saída (S) |  Nível final dia (NFD) |  Probabilidade  |
-|:------------------------:|:---------------------:|:----------:|:----------------------:|:---------------:|
-| 7                        |  6                    | 5          | 8                      | 1/9             |
-| 7                        |  6                    | 6          | 7                      | 1/9             |
-| 7                        |  6                    | 7          | 6                      | 1/9             |
+| Nível início dia (NID)   |      Entrada (E)      |  Saída (S) |  Nível final dia (NFD) |  Probabilidade  |  
+|:------------------------:|:---------------------:|:----------:|:----------------------:|:---------------:|  
+| 7                        |  6                    | 5          | 8                      | 1/9             |  
+| 7                        |  6                    | 6          | 7                      | 1/9             |  
+| 7                        |  6                    | 7          | 6                      | 1/9             |  
+
